@@ -137,7 +137,7 @@ Looking to customize, white-label, or adapt this project to your brand?
 
 <br>
 
-<sub>iumaranayat@gmail.com &nbsp;·&nbsp; +92 308 7863007</sub>
+
 
 </div>
 
