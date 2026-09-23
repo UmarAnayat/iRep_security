@@ -1,136 +1,144 @@
 <div align="center">
 
-<br />
+<br>
 
 # iRep
 
-### Security fieldwork, elevated to a real product
+### Security fieldwork, elevated.
 
-<br />
+A calm, mobile-first operations kit built for the realities of the shift —  
+not another form-heavy desktop tool.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Enterprise-1E293B?style=for-the-badge&logoColor=white" alt="Enterprise" />
-  <img src="https://img.shields.io/badge/Field%20Ops-DC2626?style=for-the-badge&logoColor=white" alt="Field%20Ops" />
+<br>
 
-<br />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Mobile_First-0F172A?style=for-the-badge" alt="Mobile First"/>
+<img src="https://img.shields.io/badge/Field_Ops-DC2626?style=for-the-badge" alt="Field Ops"/>
 
-<img src="https://img.shields.io/badge/Crafted_by-Umar_Anayat-111111?style=flat-square&labelColor=C9A86C&color=111111" alt="Crafted by Umar Anayat" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Crafted_by-Umar_Anayat-111111?style=flat-square&labelColor=C9A86C&color=111111" alt="Crafted by Umar Anayat"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Available_for_Customization-22C55E?style=flat-square" alt="Available" />
+<img src="https://img.shields.io/badge/Status-Available_for_Customization-22C55E?style=flat-square" alt="Available for Customization"/>
 
 </div>
 
-<br />
+<br>
 
 ---
 
-<br />
+<br>
 
-## The Idea
+### The Idea
 
-> Guards don't need another form dump. They need a toolkit that respects the shift.
+> Guards don’t need another form dump.  
+> They need a toolkit that respects the shift.
 
-iRep is an operations kit for security teams — attendance, incidents, leave, SOPs, key pass, and more — built for the phone in a guard's pocket, not a desktop afterthought.
+**iRep** is a focused operations product for security teams.  
+It brings the daily essentials of field work into one clean, intentional mobile experience — designed for the phone in a guard’s pocket.
 
-<br />
+<br>
 
-## What Makes It Special
+### What It Delivers
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
 
-✦ **Staff identity**  
-Login and profiles
-
-</td>
-<td width="50%">
-
-✦ **Shift overview**  
-Operations dashboard
+**Staff Identity**  
+Secure login and profiles
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+    <td width="50%" valign="top">
 
-✦ **Clock with certainty**  
-Attendance + NFC flows
+**Shift Overview**  
+Clear operations dashboard
 
 </td>
-<td width="50%">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-✦ **Report with structure**  
-Incidents and cases
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-✦ **Occurrence trail**  
-E-occurrence records
+**Attendance**  
+Reliable clock-in with NFC support
 
 </td>
-<td width="50%">
+    <td width="50%" valign="top">
 
-✦ **Time off, handled**  
-Leave apply and history
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-✦ **Site truth**  
-Company and client SOPs
+**Incident Reporting**  
+Structured reports and cases
 
 </td>
-<td width="50%">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-✦ **Field extras**  
-Key pass, jobs, payslips, AAR
+**E-Occurrence**  
+Digital occurrence trail
 
 </td>
-</tr>
+    <td width="50%" valign="top">
+
+**Leave Management**  
+Apply and track time off
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**SOPs**  
+Company and client site procedures
+
+</td>
+    <td width="50%" valign="top">
+
+**Field Tools**  
+Key pass, jobs, payslips, AAR & more
+
+</td>
+  </tr>
 </table>
 
+<br>
 
-<br />
-
-## Interface
+### Interface
 
 <p align="center">
-  <img src="screenshots/home.png" width="240" alt="Home" />
+  <img src="screenshots/home.png" width="240" alt="Home Screen"/>
   &nbsp;&nbsp;
-  <img src="screenshots/login.png" width="240" alt="Login" />
+  <img src="screenshots/login.png" width="240" alt="Login Screen"/>
 </p>
 
+<p align="center">
+  <sub>Designed for real field conditions — clean, focused, and fast</sub>
+</p>
 
-<br />
+<br>
 
 ---
 
-<br />
+<br>
 
 <div align="center">
 
-## Work With The Developer
+### Work With The Developer
 
-**Umar Anayat** designs and ships Flutter products that feel intentional — calm motion, sharp UI, and features people actually use.
+**Umar Anayat** designs and ships Flutter products that feel intentional.  
+Calm motion. Sharp UI. Features people actually use.
 
-If you want this project customized, white-labeled, or built into your brand:
+Looking to customize, white-label, or adapt this project to your brand?
 
-<br />
+<br>
 
-[![Email](https://img.shields.io/badge/Email-iumaranayat_at_gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iumaranayat@gmail.com)
+[![Email](https://img.shields.io/badge/Email-iumaranayat@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iumaranayat@gmail.com)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+923087863007-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923087863007)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+92_308_7863007-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923087863007)
 
-<br />
+<br>
 
-<sub>iumaranayat@gmail.com &nbsp;·&nbsp; +923087863007</sub>
+<sub>iumaranayat@gmail.com &nbsp;·&nbsp; +92 308 7863007</sub>
 
 </div>
 
-<br />
+<br>
