@@ -105,9 +105,11 @@ Key pass, jobs, payslips, AAR & more
 ### Interface
 
 <p align="center">
-  <img src="screenshots/home.png" width="240" alt="Home Screen"/>
+  <img src="screenshots/screenshot1.png" width="240" alt="iRep app screenshot 1"/>
   &nbsp;&nbsp;
-  <img src="screenshots/login.png" width="240" alt="Login Screen"/>
+  <img src="screenshots/screenshot2.png" width="240" alt="iRep app screenshot 2"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/screenshot3.png" width="240" alt="iRep app screenshot 3"/>
 </p>
 
 <p align="center">
